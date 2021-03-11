@@ -4,7 +4,7 @@ function inviteRedirect() {
 }
 
 function supportRedirect() {
-  window.location.href = "#";
+  window.location.href = "https://discord.gg/GvTH3vzJ";
 }
 
 function darkMode() {
