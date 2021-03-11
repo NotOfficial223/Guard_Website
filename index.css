@@ -102,6 +102,8 @@ body {
 }
 #invite:hover {
   width: 250px;
+  background-color: silver;
+  cursor: pointer;
 }
 #support {
   width: 250px;
@@ -109,6 +111,8 @@ body {
 }
 #support:hover {
   width: 295px;
+  background-color: silver;
+  cursor: pointer;
 }
 .white-line {
   height: 2px;
